@@ -1,0 +1,6 @@
+[GLOBAL]
+VERSION=1
+TAG=PFSIExécutable Windows 32 bits
+[WDREPORT]
+LOCAL_DIR=C:\Program Files (x86)\PFSI\Etats et Requêtes
+GLOBAL_DIR=C:\Program Files (x86)\PFSI\Etats et Requêtes Partagés
